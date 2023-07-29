@@ -1,0 +1,20 @@
+name: Publish docs via GitHub Pages
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    name: Deploy docs
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v3
+
+      - name: Deploy docs
+        uses: ./.github/actions/mkdocs-deploy-gh-pages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CUSTOM_DOMAIN: recipes.jstover.net
+          DOCS_DIR: recipes

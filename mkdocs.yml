@@ -1,0 +1,31 @@
+site_name: Street Cookbook
+site_url: https://recipes.jstover.net
+site_author: Josh Stover
+site_description: A cookbook from the streets
+
+docs_dir: recipes
+
+theme:
+  name: readthedocs
+  highlightjs: true
+  hljs_languages:
+    - yaml
+
+# Configure navigation section
+nav:
+  - Home: index.md
+
+  - Cakes:
+    - Banana Bread: BananaBread.md
+    - Tangy Lemon Cake: TangyLemonCake.md
+
+  - Meals:
+    - Chicken Noodle Stir-Fry: ChickenNoodleStirFry.md
+    - Chicken Tacos: ChickenTacos.md
+    - Green Thai Chicken Curry: GreenThaiChickenCurry.md
+    - Spaghetti Carbonara: SpaghettiCarbonara.md
+    - Sri Lankan Beef Curry: SriLankanBeefCurry.md
+
+  - Deserts:
+      - Raspberry Cheesecake Brownies: RaspberryCheesecakeBrownies.md
+      - Melt-and-Mix Christmas Cake: MeltAndMixChristmasCake.md
