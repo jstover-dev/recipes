@@ -4,7 +4,7 @@ _What happens when you cook chorizo with fragrant herbs, garlic and onion, then 
 We could tell you, but the best way to find out is to try it yourself!
 While you're at it, throw in some roasted cherry tomatoes for a sweet burst of flavour that also works to cut through the lovely richness of the dish._
 
-**Source**: https://www.hellofresh.com.au/recipes/baked-chorizo-spinach-risotto-63a5188e3ff7f0537e042193
+**Source**: [https://www.hellofresh.com.au/recipes/baked-chorizo-spinach-risotto-63a5188e3ff7f0537e042193](https://www.hellofresh.com.au/recipes/baked-chorizo-spinach-risotto-63a5188e3ff7f0537e042193)
 
 **Servings**: 2 
 
@@ -25,29 +25,26 @@ While you're at it, throw in some roasted cherry tomatoes for a sweet burst of f
 
 ## Method
 
-1. - Preheat oven to 220°C/200°C fan-forced.
-   - Roughly chop mild chorizo.
-   - Thinly slice brown onion. 
+### Preparation
+1. Preheat oven to 220°C/200°C fan-forced.
+2. Roughly chop mild chorizo.
+3. Thinly slice brown onion. 
+4. Halve cherry tomatoes
 
+### Start Risotto
+1. In a large frying pan, heat a drizzle of olive oil over medium-high heat. Cook chorizo, stirring, until golden and crisp, 3-4 minutes.
+2. Add onion and cook, stirring, until softened, 4 minutes.
+3. Add garlic paste and Italian herbs and cook until fragrant, 1 minute.
+4. Stir in arborio rice until well combined.
 
-2. - In a large frying pan, heat a drizzle of olive oil over medium-high heat. Cook chorizo, stirring, until golden and crisp, 3-4 minutes.
-   - Add onion and cook, stirring, until softened, 4 minutes.
-   - Add garlic paste and Italian herbs and cook until fragrant, 1 minute.
-   - Stir in arborio rice until well combined.
+### Bake
+1. Add the water and chicken stock pot to the pan. Stir well, then bring to the boil.
+2. Transfer risotto to a baking dish. Cover tightly with foil.
+3. Bake until liquid is absorbed and rice is 'al dente', 24-28 minutes. 
+4. Meanwhile, Place cherry tomatoes on a lined oven tray. Drizzle with olive oil, season with salt and pepper and toss to coat.
+5. Roast tomatoes until blistered, 15-20 minutes
 
-
-3. - Add the water and chicken stock pot to the pan. Stir well, then bring to the boil.
-   - Transfer risotto to a baking dish. Cover tightly with foil.
-   - Bake until liquid is absorbed and rice is 'al dente', 24-28 minutes. 
-
-
-4. - Meanwhile, halve snacking tomatoes. Place on a lined oven tray. Drizzle with olive oil, season with salt and pepper and toss to coat.
-   - Roast until blistered, 15-20 minutes
-
-
-5. - When the risotto is ready, stir through a splash of water to loosen, if needed.
-   - Stir in shaved Parmesan cheese, the butter and baby spinach leaves.
-   - Gently fold in roasted tomatoes. Season to taste.
-
-
-6. - Divide baked chorizo and spinach risotto between bowls to serve. Enjoy!
+### Serve
+1. When the risotto is ready, stir through a splash of water to loosen, if needed.
+2. Stir in shaved Parmesan cheese, the butter and baby spinach leaves.
+3. Gently fold in roasted tomatoes. Season to taste.
